@@ -15,7 +15,7 @@ public class TestClass {
 			y++;
 			x++;
 		}
-		return x;
+		return y;
 				
 	}
 
